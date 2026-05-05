@@ -1,0 +1,1 @@
+Git może być użyty do zapisywania kolejnych wersji modelu sztucznej sieci neuronowej MLP, który służy do prognozowania nadciśnienia strumienia gazu w sieci rurociągów. Dzięki temu można śledzić zmiany w modelu i danych oraz sprawdzać, jak wpływają one na wyniki. W razie potrzeby można też wrócić do wcześniejszej wersji, która działała poprawnie.
