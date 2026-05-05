@@ -1,0 +1,3 @@
+Zastosowane polecenie git diff pokazuje różnice między aktualną zawortością pliku a jej ostatnią zapisaną w reozytorium wersją.
+W pokazanym w zadaniu skrypcie widać, że wcześniej plik zawierał tekst po łacinie a następnie został on zmieniony na "Hello world". 
+Linie oznaczone znakiem „-” przedstawiają poprzednią wersję pliku, a linie ze znakiem „+” aktualną zawartość po wprowadzonych zmianach.
