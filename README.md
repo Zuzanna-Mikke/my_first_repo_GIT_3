@@ -5,3 +5,5 @@ Numer słuchacza:5368
 
 
 Praca z gałęziami i rozwiązywanie konfliktów. 
+Tym wpisem chcemy spowodować konflikt.
+
