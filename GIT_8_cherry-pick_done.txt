@@ -1,0 +1,19 @@
+* 535b82a Dodano log do cherry-pick
+* 2d2e44d Dodano log po rebase
+* 4aa53d7 Dodano diff
+* 0bca4f5 Dodano log w gałęzi test
+* b9aae10 Dodano listę stash
+* 2f5b959 Zmiana README do testu reset
+* 623f726 Dodano historię gałęzi
+*   9b11d5f Rozwiązano konflikt
+|\  
+| * 6ec67fa Zmiana README w test
+| * d6642bd Dodano pliki w gałęzi test
+* | 2a7ac0c Zmiana README w master
+|/  
+* b7c7936 Dodano pliki z historią commitów
+* c23f99f Dodano opis git diff
+* 264baf0 Dodano README
+* b551497 Restore i aktualizacja statusów
+* 76ca964 Dodano pliki statusów
+* 2096059 Dodano pliki GIT_2_version i GIT_1_idea
