@@ -1,0 +1,92 @@
+commit 4aa53d75ef37b2208111c4469437266ecaa807c5
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Wed May 6 22:59:30 2026 +0200
+
+    Dodano diff
+    
+    Dodano stan repozytorium
+
+commit 0bca4f5e2af92a56160e650d8251c76075aba108
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Wed May 6 22:58:52 2026 +0200
+
+    Dodano log w gałęzi test
+
+commit b9aae10c82eaf06f198b8182e8fa9ad4d8244fc9
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Wed May 6 22:55:35 2026 +0200
+
+    Dodano listę stash
+
+commit 2f5b959294f848889f0a3ea7ad4332d01ab594c3
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Wed May 6 22:53:43 2026 +0200
+
+    Zmiana README do testu reset
+
+commit 623f726dca105bbc44181c9504c77f474daacdae
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Tue May 5 23:44:11 2026 +0200
+
+    Dodano historię gałęzi
+
+commit 9b11d5ff849025c650394e47b630de0b73c56e4d
+Merge: 2a7ac0c 6ec67fa
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Tue May 5 23:43:37 2026 +0200
+
+    Rozwiązano konflikt
+
+commit 6ec67fa859412d779e3862dfe562743c51181b49
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Tue May 5 23:42:12 2026 +0200
+
+    Zmiana README w test
+
+commit 2a7ac0c2d7a0e8bf4491f3408f748a278e88097d
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Tue May 5 23:41:17 2026 +0200
+
+    Zmiana README w master
+
+commit d6642bd9c7aabc08047a69bb667d9ff98ab59272
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Tue May 5 23:40:13 2026 +0200
+
+    Dodano pliki w gałęzi test
+
+commit b7c7936d9e5e20022bf3a783f948fc6867a21740
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Tue May 5 23:22:52 2026 +0200
+
+    Dodano pliki z historią commitów
+
+commit c23f99f37c87d5917f863cdaa274ec0004b1e421
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Tue May 5 23:06:53 2026 +0200
+
+    Dodano opis git diff
+
+commit 264baf0f72b9b93e3ba0892e2196c5e571d03878
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Tue May 5 22:51:44 2026 +0200
+
+    Dodano README
+
+commit b55149771cf520d85c78af4f111a65e4628b8fd1
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Tue May 5 22:48:46 2026 +0200
+
+    Restore i aktualizacja statusów
+
+commit 76ca9649a136de4b34fdee771af5309f812a8a11
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Tue May 5 22:46:31 2026 +0200
+
+    Dodano pliki statusów
+
+commit 2096059875329a09e8885f034a29dc6bc4441227
+Author: Zuza_M <zuzanna.mikke@outlook.com>
+Date:   Tue May 5 22:44:52 2026 +0200
+
+    Dodano pliki GIT_2_version i GIT_1_idea
