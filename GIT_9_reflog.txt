@@ -1,0 +1,41 @@
+a435820 HEAD@{0}: commit: Dodano log po reset
+535b82a HEAD@{1}: reset: moving to HEAD~1
+e1f2212 HEAD@{2}: commit: Dodano log przed reset
+535b82a HEAD@{3}: cherry-pick: Dodano log do cherry-pick
+2d2e44d HEAD@{4}: reset: moving to HEAD~1
+7e5b990 HEAD@{5}: commit: Dodano cherry-pick wynik
+2d2e44d HEAD@{6}: checkout: moving from test to master
+cfb8ad4 HEAD@{7}: commit: Dodano log do cherry-pick
+688ca16 HEAD@{8}: checkout: moving from master to test
+2d2e44d HEAD@{9}: commit: Dodano log po rebase
+4aa53d7 HEAD@{10}: rebase (finish): returning to refs/heads/master
+4aa53d7 HEAD@{11}: rebase (squash): Dodano diff
+ad9722d HEAD@{12}: rebase (pick): Dodano diff
+0bca4f5 HEAD@{13}: rebase (pick): Dodano log w gałęzi test
+b9aae10 HEAD@{14}: rebase (start): checkout HEAD~2
+b1a573e HEAD@{15}: commit: Dodano stan repozytorium
+639ae0c HEAD@{16}: merge test: Merge made by the 'ort' strategy.
+b9aae10 HEAD@{17}: checkout: moving from test to master
+688ca16 HEAD@{18}: commit: Dodano diff
+5248cfc HEAD@{19}: commit: Dodano log w gałęzi test
+6ec67fa HEAD@{20}: checkout: moving from master to test
+b9aae10 HEAD@{21}: commit: Dodano listę stash
+2f5b959 HEAD@{22}: reset: moving to HEAD
+2f5b959 HEAD@{23}: commit: Zmiana README do testu reset
+623f726 HEAD@{24}: reset: moving to HEAD~1
+519cec3 HEAD@{25}: commit: Zmiana README do testu reset
+623f726 HEAD@{26}: commit: Dodano historię gałęzi
+9b11d5f HEAD@{27}: commit (merge): Rozwiązano konflikt
+2a7ac0c HEAD@{28}: checkout: moving from test to master
+6ec67fa HEAD@{29}: commit: Zmiana README w test
+d6642bd HEAD@{30}: checkout: moving from master to test
+2a7ac0c HEAD@{31}: commit: Zmiana README w master
+b7c7936 HEAD@{32}: checkout: moving from test to master
+d6642bd HEAD@{33}: commit: Dodano pliki w gałęzi test
+b7c7936 HEAD@{34}: checkout: moving from master to test
+b7c7936 HEAD@{35}: commit: Dodano pliki z historią commitów
+c23f99f HEAD@{36}: commit: Dodano opis git diff
+264baf0 HEAD@{37}: commit: Dodano README
+b551497 HEAD@{38}: commit: Restore i aktualizacja statusów
+76ca964 HEAD@{39}: commit: Dodano pliki statusów
+2096059 HEAD@{40}: commit (initial): Dodano pliki GIT_2_version i GIT_1_idea
