@@ -1,0 +1,1 @@
+stash@{0}: WIP on master: 2f5b959 Zmiana README do testu reset
